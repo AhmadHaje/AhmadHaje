@@ -1,4 +1,6 @@
 ### Hi there 👋
+I’m an upcoming software engineer :grin:. <br />
+Here are some of my work during last year, I hope you enjoy :wink:.
 
 <!--
 **AhmadHaje/AhmadHaje** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
